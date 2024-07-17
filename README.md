@@ -1,1 +1,1 @@
-A personal app store to host my android projects.
+An app store to host my projects.
